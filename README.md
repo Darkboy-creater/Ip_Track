@@ -7,6 +7,9 @@
 
 
 
+termux-setup-storage
+
+
 apt update
 
 
